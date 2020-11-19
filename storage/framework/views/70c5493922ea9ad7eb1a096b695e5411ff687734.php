@@ -1,0 +1,1 @@
+<a href="<?php echo e(url($crud->route.'/'.$entry->id)); ?>" class="btn btn-xs btn-default clone-btn"><i class="fa fa-eye"></i> <?php echo e(trans('common.view')); ?></a>

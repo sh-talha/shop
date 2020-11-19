@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+	'view_all'		=> 'ver todo',
+	'browse_offer'		=> 'Buscar ofertas',
+	'offer'			=> 'Ofertas',
+	'collection'			=> 'Colección',
+	'premium'	=> 'Premium',
+	'delux'			=> 'Delux',
+	'browse_categories' => 'Categorías',
+	'apply_filter' => 'Filtro',
+	'price'=>'Precio',
+	'color'=>'Color',
+	'size'=>'Talla',
+	'add'=>'Añadir',
+	'report'=>'Reportar el producto',
+	'reviews'=>'Reseñas',
+	'based_on'=>'Residencia en',
+	'add_review'=>'Agrega una reseña',
+	'submit_now'=>'Comprar',
+	'your_rating'=>'Tu clasificación',
+	'overall'=>'En general',
+	'quantity'=>'Cantidad',
+	'availibility'=>'Disponibilidad',
+	'comments'=>'Comentarios',
+	'description'=>'Descripción',
+	'price2'=>'Baratos Primero',
+	'price1'=>'Caros Primero',
+	'newto1'=>'Nuevos Primero',
+	'newto2'=>'Antiguos Primero',
+		'submit_now11'=>'añadir',
+];
